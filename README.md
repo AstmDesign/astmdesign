@@ -5,8 +5,7 @@
 
 <p>
   <em>
-    Web Developer</br>
-    FreeLancer
+    FreeLancer Web Developer
   </em>
 </p>
 
