@@ -16,10 +16,10 @@
 
 ```ruby
 astm_bio = Hash.new
-astm_bio[:experience] = 'More than 17 years in web development'
+astm_bio[:experience] = 'More than 20 years in web development'
 astm_bio[:languages] = ['Ruby', 'PHP', 'Shell script', 'Javascript']
 astm_bio[:freamwork] = 'Ruby on rails'
-astm_bio[:Databases] = ['Mysql', 'SQLite', 'PostgreSQL']
+astm_bio[:Databases] = ['Mysql', 'SQLite', 'PostgreSQL', 'Redis', 'Snowflake']
 astm_bio[:Editors] = ['Vim', 'Atom', 'Sublime']
 astm_bio[:UI_tools] = []
 astm_bio[:Other_tools] = []
